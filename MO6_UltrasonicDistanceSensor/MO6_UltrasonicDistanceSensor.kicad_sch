@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 56fb9f7c-526c-46d4-9d85-eda8242ef960)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 29.21 25.4) (size 21.59 13.97) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b4ead42e-153a-435c-b6b6-58363c995dac)
+    (property "Sheetname" "oscillator" (at 29.21 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "oscillator.kicad_sch" (at 29.21 39.9546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MO6_UltrasonicDistanceSensor"
+        (path "/56fb9f7c-526c-46d4-9d85-eda8242ef960" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
