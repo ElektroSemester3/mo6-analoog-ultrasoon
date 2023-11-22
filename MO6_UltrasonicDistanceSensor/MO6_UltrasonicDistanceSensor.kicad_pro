@@ -312,6 +312,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -330,6 +338,10 @@
     [
       "b4ead42e-153a-435c-b6b6-58363c995dac",
       "oscillator"
+    ],
+    [
+      "006c8a78-f152-41de-9a44-044636956a77",
+      "Detector"
     ]
   ],
   "text_variables": {}
